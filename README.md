@@ -27,3 +27,9 @@ $ ./local_elm.sh ...
 ```
 
 You can call the script above passing arguments you'd normally pass to the `elm` binary and it should just work.
+
+## TODO
+There are many things to implement, on the roadmap I have:
+
+- [ ] : add support for rollup
+ 
