@@ -31,5 +31,5 @@ You can call the script above passing arguments you'd normally pass to the `elm`
 ## TODO
 There are many things to implement, on the roadmap I have:
 
-- [ ] : add support for rollup
- 
+- [ ] Add support for rollup
+- [ ] Rebuild the _debug_ version of `index.html` when the live-server detect a change.
